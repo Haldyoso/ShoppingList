@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">ShoppingList</string>
     <string name="plus">+</string>
-    <string name="fab_content_desc">neivem</string>
+    <string name="fab_content_desc">neviem</string>
     <string name="TextVRiadku">Skuska</string>
 
 </resources>
